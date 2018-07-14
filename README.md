@@ -4,7 +4,8 @@ A list of important cryptocurrency &amp; cryptography resources
 # Mixed
 
 https://blockstream.com/2015/08/24/treesignatures/ - Tree Signatures<br>
-https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-03-mit-bitcoin-expo/slides.pdf - Scriptless Scripts
+https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-03-mit-bitcoin-expo/slides.pdf - Scriptless Scripts<br>
+https://nickler.ninja/slides/2018-bob.pdf - Blind Signatures in Scriptless Scripts
 
 # Bitcoin
 
