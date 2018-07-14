@@ -25,4 +25,7 @@ https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/ - Old Bi
 https://lists.ibiblio.org/pipermail/bluesky/ - Old Cypherpunk mail list
 
 # Presentations & Videos
-https://www.youtube.com/watch?v=VABppufTdpA
+https://www.youtube.com/watch?v=VABppufTdpA - Rusty Russel talking about Bitcoin improvements
+
+# Transcripts
+http://diyhpl.us/wiki/transcripts/ - A large amount of transcripts from several conferences
