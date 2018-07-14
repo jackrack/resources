@@ -21,6 +21,8 @@ https://en.bitcoin.it/wiki/Main_Page - Bitcoin Wiki
 https://lists.linuxfoundation.org/pipermail/lightning-dev/ - Lightning Network<br>
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/ - Bitcoin<br>
 https://lists.launchpad.net/mimblewimble/ - Mimblewimble & Grin<br>
-https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/ - Old Bitcoin mail list
+https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/ - Old Bitcoin mail list<br>
 https://lists.ibiblio.org/pipermail/bluesky/ - Old Cypherpunk mail list
 
+# Presentations & Videos
+https://www.youtube.com/watch?v=VABppufTdpA
